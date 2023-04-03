@@ -1,0 +1,2 @@
+# ojira
+Automated JIRA generator
